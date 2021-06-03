@@ -1,0 +1,1817 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some errors of the Quakers detected viz. their denial of Christ, his sacrifice, ordinances, the Resurrection of the Body, and Christ's second coming : to which is added proof tha the light in all men is not Christ : with an answer to a Quaker's praise of William Penn / by Francis Estwick ...</title>
+            <author>Estwick, Francis.</author>
+         </titleStmt>
+         <extent>Approx. 76KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38682</idno><idno type="EEBO-CITATION">12293912</idno>
+  <idno type="VID">58966</idno>
+  <idno type="EEBO-PROQUEST">2240961578</idno>
+  
+            <idno type="STC">Wing E3357</idno>
+            <idno type="STC">ESTC R32005</idno>
+            <idno type="OCLC">12293912</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58966)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1503:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some errors of the Quakers detected viz. their denial of Christ, his sacrifice, ordinances, the Resurrection of the Body, and Christ's second coming : to which is added proof tha the light in all men is not Christ : with an answer to a Quaker's praise of William Penn / by Francis Estwick ...</title>
+                  <author>Estwick, Francis.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author and are to be sold at several places in London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The preface to the reader" signed : Francis Estwick.</note>
+                  <note>Imperfect : pages faded, stained and tightly bound with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Penn, William, 1644-1718.</term>
+               <term type="topical_term">Society of Friends --  England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58966:1"/>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Errors OF THE <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>UAKERS Detected, <hi>Viz.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Denial of Christ, his Sacrifice, <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ances, the Resurrection of the Body, and Christ's Second Coming.</p>
+            <p>To which is added Proof, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the Light in all Men is not Christ.</p>
+            <p>With an ANSWER to Quaker's Praise of <hi>William Penn.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rancis Estwick</hi> (a Preacher of Glad <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to all Men,) at <hi>Fowlkston</hi> in <hi>Kent.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> shall be with Child, and shall bring forth a Son, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll his Name <hi>Emmanuel,</hi> - God with us,
+<bibl>
+                     <hi>Isa. 7.14. <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 21, 22, 23.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> appeared to put away Sin, by the Sacrifice of him<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <bibl>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>9.26.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will eat as doth a Canker, of whom is <hi>Hymeneus <gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>tus,</hi> who, concerning the Truth have Erred, sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Resurrection is past already, and overthrow the Faith <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <bibl>
+                     <hi>2 Tim. 2.16, 17, 18.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to him,— Hereafter shall ye see the Son <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Man <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> right hand of Power, and coming in the Clouds of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <bibl>
+                     <hi>Mat. 26.64.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the Author, and are to be Sold at <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>everal places in <hi>London,</hi> 1697.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:58966:2"/>
+            <pb facs="tcp:58966:2"/>
+            <head>THE Preface to the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>WHat have I now done, is there not a Cause, 1</hi> Sam. <hi>17.29.</hi> Therefore the oc<g ref="char:EOLhyphen"/>casion of this my setting Pen to Paper, I can truly say, did not arise from me, but from them<g ref="char:EOLhyphen"/>selves; for as to their Doctrine, I have often op<g ref="char:EOLhyphen"/>posed by Word of Mouth &amp; as to the Paper concern<g ref="char:EOLhyphen"/>ing <hi>William Penn</hi>'s high Commendation, it was sent to me, by them, to see, Whether I could object against it; the which I perused, and let it pass: and a se<g ref="char:EOLhyphen"/>cond time it was brought to me by another of their Friends, but I let it pass again: but being brought the third time, I then thought it needful to write a Reply to it, lest by my Silence, they might esteem of it above what was meet; yet I acknowledg these People, are (many of them) very good and just in their Morals, and do as they would be done by, and are zealous in their Way, and orderly in the outward Conversation, and are very helpful to each other, in the management of their Affairs in this Life; and I have often told them, that were their Principles grounded on, and agreeing to the Principles of the Doctrine of Christ, I would readily close with them; But instead of the Merit, Satisfactory Active and Passive Obedience of Jesus of <hi>Nazareth,</hi> the Resurrection of the Body, and Christs second Com<g ref="char:EOLhyphen"/>ing, they go on in their Way, disswading People from closing in with Christ, and his Ordinances, and exhorting others to turn from them, who have yield<g ref="char:EOLhyphen"/>ed Obedience thereunto; pretending that they are extinguished and abolished, which were ap<g ref="char:EOLhyphen"/>pointed, and set up by the Lord of Life and Glory, to
+<pb facs="tcp:58966:3"/> distinguish his People from the World, and to shew forth his Death till he come; and he hath promised his Spiritual Presence to bewith such to the end of the World; but the Quakers acting thus contrarily, to the grief and sorrow of the Hearts of many, who have closed with, and walk in the ways of Truth, I being earnestly desired by such to shew wherein their Ways are differing from sound Doctrine: I have this done, earnestly desiring, that they may go on no longer deceiving, nor being deceived; and that those who are rightly seeking after the Way of Truth, may not be led astray, but come to turn their Heart and Feet to God's Testi<g ref="char:EOLhyphen"/>monies, and to remember God in his own Ways; did that those who are in the way of Truth, may not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e carryed awaey with divers and strange Doctrines, but be established therein, so that all may tend t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Honour of God.</p>
+            <p>
+               <hi>Dearly Beloved, believe not every Spirit, b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> try the Spirits, whether they are of God; fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many false Prophets are gone out into the world 1</hi> John <hi>4.1.</hi> Isaiah <hi>8.20. To the Law, and to the Testimony, if they speak not according to this Word, it is because there is no Light in them.</hi> Gal. <hi>1.8. But though we, or an Ange<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from Heaven, preach unto you otherwise tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that which we have Preached unto you, let hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be accursed.</hi> And if it might be that many <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be recovered out of the snare of Sin and Satan, th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are carried away Captive, is my only end, and the earnest desire of him who is a lover of Truth <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Peace,</p>
+            <closer>
+               <signed>Francis Estwick.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:58966:3"/>
+            <head>SOME ERRORS OF THE Quakers Detected, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>I Shall shew the Reader in several respects, how the Spirits and Doctrines of the Quakers are found to a<g ref="char:EOLhyphen"/>gree in one, with the Spirits and Doctrines of the false Apostles, 2</hi> Cor. <hi>11.13.</hi> For such are false Apostles, deceitful Workers, transforming themselves into the Apo<g ref="char:EOLhyphen"/>stles of Christ. <hi>And also the false Teachers mentioned, 2</hi> Pet. <hi>2.1.</hi> But there were false Prophets among the People, even as there shall be false Teachers among you, who privily shall bring in damnable Heresies, even denying the Lord that bought them, and bring upon themselves swift Destruction.</p>
+            <div type="part">
+               <head>
+                  <hi>I.</hi> Of the <hi>Quakers</hi> Denial of Christ.</head>
+               <p>
+                  <hi>First,</hi> Those deceitful Workers did Preach another Jesus, 2 <hi>Cor.</hi> 11.4. <hi>For, if he that cometh preacheth another e<g ref="char:EOLhyphen"/>sus, whom we have not preached.</hi> Now that the Quakers are led forth to preach up another Jesus, is evident; for they own, and preach up the Light and Spirit within all Men, to be Jesus, and none else, and that therefore is another Jesus, (but there is but one Jesus Christ) is evident.</p>
+               <p>That person which was born of the Virgin <hi>Mary</hi> is the true Jesus, and none other: Now that Light in all Men was not that person born of the Virgin <hi>Mary;</hi> therefore, that Light in all Men is another Jesus, by the Quakers pretences.</p>
+               <p>
+                  <hi>Secondly,</hi> Those who preach up any other Jesus, than he that was born of the Virgin <hi>Mary,</hi> (called by himself, <hi>Jesus</hi>
+                  <pb n="6" facs="tcp:58966:4"/>
+                  <hi>of</hi> Nazareth,) and is both God and Man, 1 <hi>Tim.</hi> 2.5. they deny the true Jesus.</p>
+               <p>But the Quakers do deny Jesus of <hi>Nazareth</hi> to be both God and Man, and they preach up the Light within all men to be the Jesus, the Christ, and none other; there<g ref="char:EOLhyphen"/>fore, the Quakers preach up another Jesus Christ. <hi>Jesus —said,— Take heed, that no Man deceive you, for many shall come in my Name, saying, I am Christ, and shall decei<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> many,</hi> Mat. 24.4, 5. <hi>Go not after them,</hi> Luke 21.8.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>II.</hi> Of the <hi>Quakers</hi> Denial of Christ's Sacrifice.</head>
+               <p>
+                  <hi>First,</hi> Jesus the Saviour, was Crucified openly and vi<g ref="char:EOLunhyphen"/>sibly, without the Gates of <hi>Jerusalem,</hi> for the Sins of Men, and that without their Persons; but that Light in all Me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> never suffered in any respect, as a Saviour for Man.</p>
+               <p>Therefore, that Light in all Men, is another preten<g ref="char:EOLhyphen"/>ded Jesus; tho' it hath suffered in Man, and by Man, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> never to make an Atonement for the Sin of Man. Heb. 10.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>Now those who preach up another Crucified Jesus, are false Apostles, and led by a Spirit of Error and Delusi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> but the Quakers preach up another Crucified Jes<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in all men therefore they are such, <hi>Mat.</hi> 7.15.</p>
+               <p>Those deceitful Workers, 2 <hi>Pet.</hi> 2.1. were led by <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spirit of Error and Delusion, distinct from the Spirit of G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>The Quakers have received another Spirit, that is disti<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> from the Spirit of God; therefore, the Quakers are led <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the same Spirit that the false Apostles were led by.</p>
+               <p>Now those who walk in the way of Gospel Truth, are se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the Spirit of God; but it hath been proved, that the Quakers walk not in the way of Gospel Truth: therefore the Quakers are not led by the Spirit of God.</p>
+               <p>Those who are led forth to oppose the Sacrifice of Christ and other Gosple Truths, it is evident, they are led by a Spirit of Error: But it hath been proved, that the Quakers have, and do oppose those Truths, and walk contrary to them. Therefore, the Quakers are no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> led by the Gospel Spirit of Truth, but by a Spirit of erro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the same Spirit, that those false Apostles were led b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> Those false Apostles did preach up another Gospel, 2 <hi>Cor.</hi> 11.4. and endeavoured to pervert the Gospel of Christ, <hi>Gal.</hi> 1.6, 7.8, 9. 2 <hi>John</hi> 10.</p>
+               <p>And the Quakers do pervert the Gospel of Christ, preac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up an other Gospel of Reconciliation by the Light wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:58966:4"/> therfore, the Quakers are led by the same Spirit that those false Apostles, were led by. And that the Quakers do preach up another Gospel, will appear thus:</p>
+               <p>The Gospel of Christ is known by this Sound <hi>Repent, and Believe in the Man Christ, Jesus of</hi> Nazareth <hi>for the Remi on of Sins, and thou shalt be Saved,</hi> Isa. 9.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Isa. 53.5, 6. I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. 63.3. Ezek. 16.4. Zach. 12.10. Zach. 13.7. Mat. 1.21, 22, 23. Mat. 26.28, 64. Mat. 28.19 Mark 1.4, 5. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ark 16.15, 16. Luke 2.11. Luke 24.47. John 3.15.17, 18, 36. John 4.42. John 6.35, 40, 47. John 8.24. John 11.26. John 12.46. Acts 4.12 Acts 5.31. Acts 13.48. Acts 16.30, 31. Acts 22.8. Rom. 3.25, 26. Rom. 4.5. Rom. 9.33. Rom. 10.4. Eph. 2.5. 2 Thess. 2.12. 2 Tim. 1.9. Tit. 1.4. Tit. 3.5. Heb. 9.22.26. 1 John 4.14. 1 John 5.1, 5, 10, <hi>&amp;c.</hi>
+               </p>
+               <p>But the Quakers Gospel is, <hi>Turn to the Light within, for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat is sufficient to save thee,</hi> said <hi>Sam. Fisher.</hi>
+               </p>
+               <p>Therefore the Quakers preach up another Gospel, and endeavour to peryert the Gospel of Christ; and so it is evi<g ref="char:EOLhyphen"/>dent, That they are led by the same Spirit of Error, that those false Apostles were led by. Again consider,</p>
+               <p>The Gospel of Christ doth consist of, and maintain the Truth of his Merit, Atonement, Sufferings, (at <hi>Jerusalem,</hi>) Resurrection, Ascension, and Mediation now at the right hand of God, <hi>Acts</hi> 3.21. and his second coming visibly to Judgment, 1 <hi>Cor.</hi> 15 <hi>Jude</hi> 14. <hi>Rev.</hi> 1.7.</p>
+               <p>But it hath been proved, that the Quakers in their Gospel do contradict these things, therefore the Quakers preach up another Gospel. See one Text more: <hi>By the which Will</hi> (of God) <hi>we are sanctified, through the offering of the Body of Jesus Christ, once for all. — For by one offering, he hath perfected for ever them that are sanctified,</hi> Heb. 10.10, 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <div type="section">
+                  <head>Of the <hi>Quakers</hi> boasting of their Sufferings, instead of the Sufferings of Christ.</head>
+                  <p>
+                     <hi>First,</hi> The false Apostles were carryed forth, to boast greatly of their Sufferings, and their glorying so much af<g ref="char:EOLhyphen"/>ter the Flesh, did cause the Apostle <hi>Paul</hi> to glory also, that so they might be answered to their Folly, lest they should be wise in their own conceit, 2 <hi>Cor.</hi> 11.18, 22, 23.</p>
+                  <p>And that the Quakers have, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> do greatly boast of their Sufferings, is so publickly known, that I need not prove it; if they be cast into Prison, and suffer anything at all, you need not tell them of it, for they will glory in it, and (Pha<g ref="char:EOLhyphen"/>risee like) spread it abroad to others, to shew, That they
+<pb n="8" facs="tcp:58966:5"/> have undergone great Sufferings: in somuch, that I have heard it after one reported, of the Quaker <hi>Solomon Eagles,</hi> that he presumptuously said, <hi>He hath suffered as much as eve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thy Christ suffered, whilst he was on Earth;</hi> and I have heard many of them say, That no People do, nor ever would suf<g ref="char:EOLhyphen"/>fer so much for their Principles, as they have for theirs, <hi>Eph.</hi> 2, 4, <hi>to</hi> 9. <hi>Full well, do ye reject the Commandments of God, that you may keep your own Tradition,</hi> Mark 7.9. Coll. 2.8.</p>
+                  <p>Again, they boast often, That they suffer greatly, for not honouring Men in their places, and likewise, for not paying severall Tributes and Customs that are demanded.</p>
+                  <p>But to respect Men in their Places, is our Duty, to re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>der Honour to whom Honour is due, and to be subject <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Higher Powers, and to honour the King, and others in their Places, <hi>Rom.</hi> 13.1, 7. 1 <hi>Pet.</hi> 2.17. Therefore the Apostle <hi>Paul</hi> called <hi>Festus, Most Noble</hi> Festus, <hi>Acts</hi> 26.25. and did honour all Men in their places; and <hi>Sarah</hi> was com<g ref="char:EOLhyphen"/>mended, in that she honoured her Husband, calling hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>Lord,</hi> 1 <hi>Pet.</hi> 3.6. <hi>Render unto</hi> Caesar <hi>the thing the are</hi> Caesars, <hi>and pay Tribute to whom Tribute is due, Fear to whom Fear, Custom to whom Custom;</hi> and Christ himself (wh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> on Earth) paid Custom to the Sons of Men: therefore those who do not do those things, do contrary to the Command of God; but it is evident, the Quakers do omit the doing of them.</p>
+                  <p>Those who suffer for doing things contrary to the Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mand of God, they suffer not for Well-doing, but for Evil-doing. Now it is evident, that the Quakers in these respect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, suffer for doing contrary to the Command of God; and there<g ref="char:EOLhyphen"/>fore in these respects, if they suffer, they suffer not fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Well doing, but for Evil-doing; and so they have <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cause at all to boast of such Sufferings, but rather cause to be ashamed to mention them; <hi>For</hi> (saith the Apostle <hi>Paul,) what Glory is it, if when ye be Buffetted for your Faults, ye take it patiently,</hi> 1 Pet. 2.22. therefore they have the same Spirit of error those false Apostes had.</p>
+                  <p>
+                     <hi>Again,</hi> These deceitful Workers did c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mpare themselves with themselves, contrary to the Saints Doctrine: there<g ref="char:EOLhyphen"/>fore saith <hi>Paul,</hi> 2 <hi>Cor.</hi> 10.12. <hi>For we dare not make our selv<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of the Number, or compare our selves with some that commend themselves; but they measuring themselves by themselves, and comparing themselves amongst themselves, are not wise.</hi> Tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Quakers are led by the same Spirit, is evident; for they will not compare themselves, nor prove and try them<g ref="char:EOLhyphen"/>selves
+<pb n="9" facs="tcp:58966:5"/> by any thing, but that which is in themselves; and therefore walk after their own Lusts, and to separate themselves being sensual, having not the Spirit of God: <hi>Prov.</hi> 27.2. <hi>Luke</hi> 18.11. <hi>Rev.</hi> 3.17. <hi>Job</hi> 12.2.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>III.</hi> Of the <hi>Quakers</hi> Denial of Christ's Ordinances.</head>
+               <p>
+                  <hi>Seventhly,</hi> Those false Apostles did endeavour to pervert the two <hi>Ordainances,</hi> which Christ hath placed in his Church, as a Memorial of his Death to all Generations: What Dis<g ref="char:EOLhyphen"/>orders was there in the Church so occasioned 1 <hi>Cor.</hi> 11.20.</p>
+               <p>And indeed, it is evident, That the Quakers have ex<g ref="char:EOLhyphen"/>ceeded them in this respect; for they have not only per<g ref="char:EOLhyphen"/>verted these Ordinances, but have quite overthrown them, and look upon them as carnal, dead, and non-effectual, as they do other Ordinances. Therefore it is evident, that they are led by the same Spirit that those false Apostles were led by. So I shall shew <hi>First,</hi> What Christ's Ordin<g ref="char:EOLhyphen"/>ances are. <hi>Secondly,</hi> Wherefore they were Ordained. <hi>Thirdly,</hi> Why some are found, to deny their continuance. <hi>Fourthly,</hi> The dangerous Effects of that Error.</p>
+               <p>
+                  <hi>First,</hi> These two Ordinances of Christ, are Baptism and the Lord's Supper, First, Baptism as it is in Christs great Commission to Ministers, <hi>Mat.</hi> 28.19, 20. <hi>Go ye therefore, teach all Nations, Baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost; Teaching them to observe all things whatsoever I have commanded you; and lo, I am with you alway, until the end of the World. Amen.</hi> They being not <hi>Sprink<g ref="char:EOLhyphen"/>led,</hi> but <hi>Dipped,</hi> Plunged or Over-whelmed; <hi>Non Rantizo, sed Baptizo, non Aspergo sed Immergo, Rom.</hi> 6.3, 4. Secondly, Of the Lord's Supper, as the great Apostel <hi>Paul</hi> saith, <hi>For I have recei<g ref="char:EOLhyphen"/>ved of the Lord, that which also I delivered you, that the Lord Jes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, in the same night in which he was betrayed, took Bread: And when he had given Thanks, he brake it, and said, Take, eat, this is my Body, which is broken for you; this do in remembrance of me. After the same manner also, he took the Cup, when he had Supped, saying, This Cup is the New Testament in my Blood: this do ye, as oft as ye drink it, in remembrance of me.</hi> 1 <hi>Cor.</hi> 11.23, 24, 25.</p>
+               <p>
+                  <hi>Secondly,</hi> The Ordinance of Baptism, is ordained, to shew forth the Death, Burial, and Resurrection of Christ, in a Fi<g ref="char:EOLhyphen"/>gure, That as Christ shed his Blood for the Sinner, so the Sinner is washed from his Sins in the Blood of Christ, ac<g ref="char:EOLhyphen"/>cording to <hi>Rev.</hi> 1.5, 6. <hi>Who hath washed us from our Sins in
+<pb n="10" facs="tcp:58966:6"/> his own Blood, and hath made us Kings and Priests unto God, and his Father, to him, be Glory and Dominion, for ever and ever. Amen.</hi> And accordingly, as Christ died for Sinners, such as receive him, are found to die to Sin; and as Christ was Buried in the Earth, such as are Baptized and partake of the Lord's Supper, walking answerable thereto, do most lively set forth his Death, Burial and Resurrection. <hi>Know ye not, that so many of us as were Baptized into Jes<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Christ, were Baptized into his Death; we are Buried th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> with him by</hi> Baptism <hi>into Death, that like as Christ <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Raised up from the Dead, by the Glory of the Father, even so <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> also should walk in Newness of Life,</hi> Col. 2.12. And the Lords Supper also is an Ordinance, to shew forth how God of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> great love spared not his only beloved Son, who also freely laid down his life, for and in the room of Sinners, Enemie, by the cursed Death of the Cross; being a broken, bleed<g ref="char:EOLhyphen"/>ing, dying Jesus, as a Saviour. 1 <hi>Cor.</hi> 11.26. <hi>For as <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> as you eat this Bread, and drink this Cup, ye do shew the Lords Death till he come.</hi> The second time without Sin unto Sal<g ref="char:EOLhyphen"/>vation; <hi>Christ was once offered, to bear the Sins of many, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> unto them that look for him, shall he appear the second time, with<g ref="char:EOLunhyphen"/>out Sin unto Salvation,</hi> Heb. 9.28.</p>
+               <p>
+                  <hi>Thirdly,</hi> But no marvel why there are some in these day<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that deny the continuance of Christ's Ordinances, bec<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> they are led forth utterly to deny the Things, as aforesaid that are held forth thereby.</p>
+               <p>
+                  <hi>Forthly,</hi> By these Seducers the Apostle mention that denied the ordinances of Christ there was another dangerous Error like to be brought into the Church <hi>viz.</hi> the denying the Resurrection of this Body after Death <hi>How is it, that some amongst you say, that there is a Resurrection of the Dead;</hi> 2 <hi>Tim.</hi> 2.17. and again, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>their Words will eat as doth a Canker, of whom is</hi> Hymeneus <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Philetus, <hi>who concerning the Truth, have Erred, saying, Th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Resurrection is past already.</hi> 1 <hi>Cor.</hi> 15.12.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>IV.</hi> Of the <hi>Quakers</hi> Denial of the Resur<g ref="char:EOLhyphen"/>rection of the Body.</head>
+               <p>And it is evident, that the Quakers are led by the same Spirit, they have not only Questioned but also denyed the Resurrecton of the mortal Body after Death But con<g ref="char:EOLhyphen"/>sider what the Quaker said to this; <q>Thou runnest <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> still in thy Carnal Mind, pleading for Carnal Things; <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> perceive thou dost expect a Fleshly Resurrection; but we own a Resurrection in this Life, and we can witness it is
+<pb n="11" facs="tcp:58966:6"/> our selves, that the Resurrection is already past with a great many; and for thy part, thou art still in the Dark, and canst not witness the Resurrection in thy self, because <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ou wilt not turn to the Light, which will bring thee to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ltness it, and therefore thou Lyest, to say, <hi>We deny the Resurrection,</hi> as said <hi>John Tyrer</hi> a Quaker.</q>
+               </p>
+               <p>
+                  <hi>Answer,</hi> Canst thou witness a Resurrection in thy self? truly I question it; for I know not how you can be truly Risen with Christ, except you were first Dead with Christ. But do you believe, you shall Rise again out of the Graves?</p>
+               <p>
+                  <q>
+                     <hi>Quaker.</hi> No: This Body of Flesh and Bones shall not Rise again, (as <hi>George Whitehead</hi> and <hi>Turner</hi> said,) if the Bodies of Men rise again, then there is a Preheminence in the Bodies of Men above the Bodies of Beasts; which is to give <hi>Job</hi> the Lie, who saith <hi>They that seeth me, shall see me no more,</hi> Job 7.8. <hi>Flesh and Blood shall not inherit the Kingdom of God.</hi> We believe no more of the Resur<g ref="char:EOLhyphen"/>rection of the Body of a Man, than of a Dog. (said <hi>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ke Howard</hi> a Quaker.)</q>
+               </p>
+               <p>'Consider; Is not this evident, That they do positively deny the Resurrection of the Dead?</p>
+               <p>
+                  <hi>Quaker.</hi> Is it not said, that Man is like to the Beasts that perisheth, and <hi>that which befalleth Men befalleth Beasts? even <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thing befalleth them, as the one dieth, so doth the other; yea, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y have all one Breath; so that a Man hath no Preheminence a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e a Beast,</hi> Eccles. 3.19.</p>
+               <p>
+                  <hi>Answ.</hi> You must know, that <hi>Solomon</hi> is there speaking only of the vanity of Man's Estate prove by his Dissolution, or parting of Body and Soul; as the saith Apostle <hi>Paul, I long to be Dissolved, and be with Christ;</hi> shewing, that as the Beasts perished and died from off the Earth, so doth Man: so, that in that respect, he hath no preheminence above a Beast: and why? because they <hi>All return to the dust again, Eccles.</hi> 3.20. Yet, that doth not at all deny the Resurrect<g ref="char:EOLhyphen"/>ion; for he saith elsewhere, <hi>Eccles.</hi> 12.14. <hi>For God shall bring every Work into Judgment, with every secret Thing, whe<g ref="char:EOLhyphen"/>ther it be good, or whether it be evil: And as it is appointed to Men once to die, and after Death the Judgment,</hi> Heb. 9.27. <hi>Because he hath appointed a day in which he will judge the World in Righteousness, by that Man which he hath ordained, whereof he hath given assurances unto all men, in that he hath raised him from the dead,</hi> Act. 17.31. <hi>But we shall all stand before the Judgment Seat of Christ,</hi> Rom. 14.10. Now if there be a day of Judgment after Death, then there must first be a Resur<g ref="char:EOLhyphen"/>rection
+<pb n="12" facs="tcp:58966:7"/> after Death; for, how can Men be judged, after death if they Rise not first from the Dead.</p>
+               <p>Further, if according to your Saying, there be no other Resurrection than that which is Inward and Spiritual, call<g ref="char:EOLhyphen"/>ed, <hi>A Rising with Christ,</hi> then wicked Men shall not Rise for they Rise not with Christ spiritually, but after Deat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Wicked shall Rise as well as the Just, <hi>Dan.</hi> 12.2. A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 24.15. <hi>John</hi> 5.27. And therefore consequently, there i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> another Resurrection after Death, called a Reseurrectio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the Dead, besides that which is now termed Spiritu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a Rising with Christ, <hi>Colos.</hi> 3.1.</p>
+               <p>
+                  <hi>Quaker.</hi> Is it not said, that <hi>we must needs die, and be as <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ter spilt upon the ground, which cannot be gathered up ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 2 Sam. 14.14.</p>
+               <p>
+                  <hi>Answer.</hi> In respect of Man's Dissolution, I grant that <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> shall return to the Dust, and being so Rotted and Cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>med in the Grave, shall come to nothing discernable by <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fellow Creatures; but yet this doth not any way oppose <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deny the Resurrection after Death, by the Power of Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but doth rather prove it: and therefore observe the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Words following, 2 <hi>Sam.</hi> 14.14. <hi>Neither doth God resp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> any Person,</hi> that is, in respect of Death; for the grea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Kings, Emperors and Monarchs, that are or shall be in t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> World, have, and shall come under the Power of Deat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>For it is appointed unto Men once to die,</hi> Heb. 9.27. The Wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Man, or Skilfullest Physitian, cannot keep himself at <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from Death: the strongest Man, and the greatest Conqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ror in the World, tho' they have done mighty Acts, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have Conquered many Kingdoms, yet they could not Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>quer Death, but were at last Conquered by Death; <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Christ hath Conquered Death for all Men: <hi>As in</hi> Adam <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>die, so in Christ shall all be made alive,</hi> 1 Cor. 15.22.55. So th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Grave shall not retain them for ever: and therefore, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Death, where is thy Sting? O Grave, where is thy Victory?</hi> f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God hath devised Means, that <hi>his Banishment might not f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ever be expelled from him.</hi> Sam. 14, 14.</p>
+               <p>But some will further Object, and say, Is it not said co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cerning the Wicked, <hi>Isaiah</hi> 26.14. that <hi>they are dead, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> shall not live, they are deceased, they shall not Rise?</hi> Doth <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this plainly deny that Carnal Resurrection after Deat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which thou here pleadest for?</p>
+               <p>
+                  <hi>Answer.</hi> Tho' this Sentence, may have some rel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion to Man's Dissolution, yet it doth not at all rela<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to Man's Resurrection after Death; but he is the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:58966:7"/> Treating, concerning the Wicked, that God hath cut them off in the midst of their Wickedness, and that God would give them no longer time to live, and that their Memory should be forgotten in the Earth. Therefore, hast thou vi<g ref="char:EOLhyphen"/>sited them, and destroyed them. And note further, <hi>Hath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ade all their Memory to perish,</hi> Isa. 26.14. To this agreeth the Words of <hi>Solomon,</hi> Prov. 10.7. <hi>The Memory of the Just is Blessed, but the Name</hi> or Memory <hi>of the Wicked shall Rot.</hi>
+               </p>
+               <p>
+                  <hi>Quaker.</hi> If there be such a Carnal Resurrection after Death, as thou seemest to Plead for, then Why did <hi>Job</hi> Question such a thing? <hi>Job</hi> 14 14. where he saith, <hi>If a Man die, shall he live again?</hi>
+               </p>
+               <p>
+                  <hi>Answer.</hi> It is one thing, for a Man to doubt and question the Truth of a thing; and it is another thing for him, to Reason with himself, concerning a Matter: now, there <hi>Job</hi> did not at all doubt, nor question the Truth of the Resur<g ref="char:EOLhyphen"/>rection; but he doth (as many do) reason with themselves concerning a Matter: seeing such a thing is to be so and so, now had <hi>Job</hi> questioned the truth of the Resurrection, he might have taken his pleasure in the vanity of this world, <hi>For to morrow he should die.</hi> But <hi>Job</hi> draws another Resolu<g ref="char:EOLhyphen"/>tion, reasoning with himself, Is it so: <hi>If a Man die shall be live again? Answer.</hi> Yes: In the Resurrection he shall live again. Well, if so, then note this Holy Conclusion in the next Words, <hi>Job</hi> 14.14. <hi>All the days of my appointed time, will I wait till my Change come.</hi> Now <hi>Job</hi> was not here a Que<g ref="char:EOLhyphen"/>stioning, but Reasoning with himself, concerning the Re<g ref="char:EOLhyphen"/>surrection after Death: and this doth no way bring into question the Truth of the Resurrection of the Body by the Power of God. 2 Cor. 1, 9. Phil. 3, 21.</p>
+               <p>
+                  <hi>Quaker.</hi> Thou goest on in a multitude of Words, and will not be convinced concerning this thing, but in thy Carnal Mind hath great Expectations of an outward Resurrection; but, wait in Silence, and leave off thy Carnal Reasonings, for thou hast that in thee, if thou wilt give heed to it, that will bring thee to witness the true Resurrection; and there<g ref="char:EOLhyphen"/>fore, do not expect, nor Plead any longer for a Carnal Re<g ref="char:EOLhyphen"/>surrection: for <hi>Job</hi> saith plainly, <hi>Job.</hi> 7.8, 9. <hi>The Eye of him that hath seen me, shall see me no more; thine Eyes are upon me, and I am not: As the Cloud is consumed, and vanisheth a<g ref="char:EOLhyphen"/>way, so he that goeth down to the Grave, shall come up no more.</hi> Now, if Men rise again after Death, sure they must come up out of their Graves, where they are buryed: but <hi>Job</hi> saith plainly, <hi>Those that go down to the Grave, shall come up no
+<pb n="14" facs="tcp:58966:8"/> more:</hi> Now, how can you have a clearer Proof than thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to overthrow that outward and carnal Resurrection, th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thou art here Pleading for?</p>
+               <p>
+                  <hi>Answer.</hi> Thou dost charge me here with Carnal Reas<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ings, but methinks thou dost here shew thy self very Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nal and Ignorant, in thy Reasoning: Thou comest <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> short of that great Light and Knowledge which th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dost pretend to. Well, now thou thinke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t thou h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quite stopt my Mouth, and put me to Silence, for pleadi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> again for the Matter in hand: but consider in what resp<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <hi>Job</hi> spoke those Words: This doth not at all concern <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Matter in hand, for <hi>Job</hi> was not at all there speaking of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Resurrection, but only of Man's Dissolution; shewing, Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when God hath taken away Man by Death, from off <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Earth, and he being Silent in the Grave, he shall not <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> up any more from thence, to be had in remembrance <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mongst Men on Earth, to enjoy his Place and Posses<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> which he did live in when he was upon the Earth: th<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fore, pray be not so hasty to snatch away one Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and leave the other; but observe what he saith, in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conclusion thereof in the next Verse, <hi>Job</hi> 7.10. <hi>He <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Return no more to his House, neither shall his Place know him <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> more.</hi> Now here, he cleareth his meaning himself; and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doth fully prove what I said before, That Men after D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> shall not return again to their Place here on Earth, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be had in Remembrance amongst Men as before: for <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we may go to them, to take up our Habitation in the G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with them, yet they cannot return to us here again, to t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> up their Habitation with us upon the Earth, as they <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> before, 2 <hi>Sam.</hi> 12.23. <hi>David</hi> speaking concerning his Ch<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <hi>But now he is dead, wherefore should I fast?</hi> for note, <hi>Can I br<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> him back again?</hi> As if he should say, No, I cannot: <hi>I <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> go to him, but he shall not return to me:</hi> so that this d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> clearly prove what I said before; but by the way, I can<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but observe, how ignorant and dull those <hi>Quakers</hi> seem <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be in their Reasonings; it is a shameful thing, That th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> should pretend to be led by the Spirit of God, when <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> evident they are not: for Note, it is the Work of Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Holy Spirit, to bring to Remembrance all things, <hi>Joh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 26. and to teach them all Things according to Truth, t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are guided by it: But now let the impartial Reader judg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Whether they are guided by the Spirit of God, or no? w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it is evident, either their Memory doth not serve the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> take the whole of a Matter which they bring, or they <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:58966:8"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illy leave it out, dividing the Scripture as if they had no love for it; as the Harlot that had no love for the Child, would have it divided: so do they divide the Scrip<g ref="char:EOLhyphen"/>tures, taking one piece, and leaving the other part, just as if they were Blind and could not see to take the Whole of a Thing, which concerneth the Matter in hand. Truly <hi>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ker,</hi> I am afraid, you will be very angry with me, if <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> should say, you are in Darkness, and cannot see.</p>
+               <q>
+                  <l>But it is to be feared such People are Blind,</l>
+                  <l>That take one half, and leave the other behind,</l>
+               </q>
+               <p>And further, if there be no other Resurrection than that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich you call Inward and Spiritual, which is termed a <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing with Christ, then all in general that do Rise, shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to Glory, Peace and Happiness, and none to Confusion: <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> there are some in the Resurrection which shall <hi>Arise to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> lasting Shame and Contempt,</hi> Dan. 12.2. John 5.21. and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>the Resurrection of Damnation;</hi> and therefore, it doth con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>quently follow, <hi>That there shall be a Resurrection of the Dead, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the Just and of the vnjust,</hi> Acts 24.15. For it would <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y absurd and ridiculous, to say, That any who are, or <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> rise spiritually with Christ, that they shall rise to Shame, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>empt, Confusion, and Damnation: but truly, it will <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> well with those who do now both question, and object <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ainst the Truth of the Resurrection, if one day they be <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> forced to declare, That they have a part in the Resurre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>on of Shame, Confusion, Contempt, and Damnation.</p>
+               <p>
+                  <hi>Quaker.</hi> Doth not <hi>Paul</hi> tell us plainly, <hi>That Flesh <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Blood cannot inherit the Kingdom of God, neither doth <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ption inherit Incorruption,</hi> 1 Cor. 15 50. Now, is not thy <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dy, Flesh and Blood, corruptible? I marvel that thou <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> proceed so far, as to expect, and plead in thy Carnal <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nings, for a Resurrection of thy carnal Corruptible <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dy, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Answer.</hi> I grant the Apostle <hi>Paul</hi> did say so; but yet <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doth not at all oppose or deny the Resurrection of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ody: for Note, Our Bodies as they are now, being Flesh a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Blood, and Corruptible, being Mortal and Changeable, t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y shall not inherit the Kingdom of God; for Corrupti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cannot inherit Incorruption: But pray consider, tho' <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our Bodies are Flesh and Blood, and Mortal and Cor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uptible, yet the time is coming, when <hi>this Corruptible must <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> put on Incorruption, and this Mortal must put on Immortality,</hi> 1 Cor. 15, 53, 54. And then Note, these our Bodies, which
+<pb n="16" facs="tcp:58966:9"/> are now Flesh and Blood, and Corruptible, shall then <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Changed, and made like to Christ's glorious Body, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 3.21. and then, when they are so changed, they shall <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>herit that incorruptible and unmovable, and everlast<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Kingdom of God; tho' as they are now, they cannot. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> further, those who shall <hi>be found worthy to attain to the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Resurrection, they neither Marry nor are given in Marri<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> Luke 20.35. But now I much marvel, Why the <hi>Qu<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> are so carnally minded, as to Marry and give in Marria<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> if they have attained to the first Resurrection, as many <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them have said, they have!</p>
+               <p>And further, those who shall be found worthy to ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that Resurrection, <hi>Rev.</hi> 20.6. shall be free from Dea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>they can die no more,</hi> Luke 20.36. But now I am perswa<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that <hi>Quakers</hi> are mortal as well as Christians, and must <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as well as other Men; and therefore, it is evident, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they have not attained to the first Resurrection, what <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they may pretend to.</p>
+               <p>And further, it is evident, That those who are <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> worthy to attain to the first Resurrection, <hi>are equal <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Angels, and are the Children of God,</hi> being <hi>the Children o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Resurrection,</hi> Luke 20.36. But now it is to be feared, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <hi>Quakers</hi> are not the Children of God, because they <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Testimony against the Truths of God: neither <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they attained to the first Resurrection; for they are <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yet equal with the Angels of God; and worse than tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fear they never will be. Tho' many of them have presum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to oppose and exalt themselves above the Angels of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in presuming to say, That <hi>they were Christ, the Son of God,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the great Primitive Quaker <hi>James Nailor</hi> said in the C<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nicle,) and to say, That they, or he, (<hi>viz.</hi> George Say, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>the eternal Judge of the World,</hi> see <hi>Paul</hi>'s Errand to <hi>D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>cus,</hi> pag. 6. and that <hi>He was the Way, the Truth, and the</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p>Now <hi>Quaker,</hi> What think you of these Things? Let <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> impartial Reader judge, Whether or no, this be not <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Presumption in you, for to oppose and exalt your se<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> thus, far above Men and Angels? <hi>Heb.</hi> 1.12, 14. Is <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this a shameful thing, That the Spirit of God should <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> greatly reproached by you, as it is, for you to cry out, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pretend, That above all others, you are led by the Sp<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> of God? when it is evident, you are led forth to deny <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Truths of God, and to oppose and exalt your selves a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God; by your great Presumption of your Light or Sp<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> you are guided by, can it lead you forth to act no be<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+               <pb n="17" facs="tcp:58966:9"/>
+               <p>And further, if there be no other Resurrection than a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>piritual Rising with Christ, then pray resolve me, What <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esurrection this is, that Christ doth here speak of? <hi>Luke</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.36. But if you say, That this is a Spiritual Rising with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrist, then I will deny it: for the occasion of those words; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re grounded upon those that were under the power of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emporal Death, <hi>Luke</hi> 20.31, 32. And they were given <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th as an Answer to those who were one with you, in de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the Resurrection of the Body, <hi>Luke</hi> 20.27.</p>
+               <p>Further, If there be no other Resurrection than a Spiri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al Rising with Christ, then pray resolve me, What Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rrection the Saints and Martyrs of Jesus Christ sought to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain to, or did expect? <hi>Heb.</hi> 11.35. It is said, <hi>They <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e tortured, not accepting Deliverance;</hi> and why? That <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>might obtain a better Resurrection.</hi>
+               </p>
+               <p>Now, if you say this was only a Spiritual Rising, I Answer: Those were counted the Saints of Christ, now to say, that Man may be a Child of God and a Saint of Christ, and yet <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Risen with Christ; this is very absurd and ridiculous: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t doubtless, they were Risen with Christ before they <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e to suffer for Christ: And further, they were then <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to Death, and they did expect a Resurrection; and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erefore consequently, there shall be a Resurrection after <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath: and therefore, <hi>How say some amongst you, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re is no Resurrection?</hi> 1 <hi>Cor.</hi> 15.12.</p>
+               <p>Further, if there be no other Resurrection than a Spiri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al Rising with Christ, then pray resolve me, what Resur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ection it was, that <hi>Paul</hi> sought to attain to, <hi>Phil.</hi> 3.11. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen he said, <hi>If by any means, I might attain unto the Resur<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tion of the dead:</hi> Now for any to say, That <hi>Paul</hi> was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t then Risen with Christ, is deniable, and very absurd <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ridiculous; for the Question is, Whether a person so <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>bly called by Christ as he was, and sent to preach the Gospel, and endowed with such large gifts of God's Spirit, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd suffered more for Christ than ever any of you did, (for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll your boastings of your great Sufferings?) He saying <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>othing, <hi>shall separate us from the love of God which is in Christ Jesus our Lord,</hi> Rom. 8, 34, to 39. Whether he could do and say all this, and yet not be Risen with Christ, I deny, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to say, he was not? will be very absurd and ridiculous. But it is evident, he was long before that time Risen with Christ, and yet it is evident, That he sought to attain to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nother Resurrection. Now it is evident, That he had not <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tained to that Resurrection which he then sought after:
+<pb n="18" facs="tcp:58966:10"/> yet some of you have presumptuously said, That you have attained to that Resurrection which <hi>Paul</hi> then sought after, <hi>Phil.</hi> 3.11. as <hi>John Ticer</hi> told me: so that in your ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conceit, you have attained to a better State than the Pri<g ref="char:EOLunhyphen"/>mitive Saints did in their days: But the Resurrection the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> spoken of, is the first Resurrection, the Resurrecti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the Just after Death, which its greatly feared, so<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of you will never attain to.</p>
+               <p>
+                  <hi>Quaker.</hi> Although this Body shall not rise again, yet <hi>G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> will provide himself another Body.</hi>
+               </p>
+               <p>
+                  <hi>Answer.</hi> Good Friends and People, I desire you to jud<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> between me and the <hi>Quakers,</hi> that so you may plainly <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a clear distinction between Truth and Error. Consider <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> according to the <hi>Quakers</hi> Saying, <hi>This Body Rise not ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> from the dead, but we have instead hereof</hi> another Body; t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> how can this be properly said to be a Resurrection; <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> rather a Creation of other Bodies? But I will prove, T<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the Bodies that are laid in the ground, shall be raised ag<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> for all that come under the power of Death by <hi>Adam,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all be raised again in Christ, 1 <hi>Cor.</hi> 15.22. For note, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Adam, <hi>all die, even so in Christ shall all be made alive.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by <hi>Adam</hi>'s Disobedience, death came upon all men, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being in him, <hi>Rom.</hi> 5.12. So that our Bodies which s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be made alive again in Christ, shall rise again.</p>
+               <p>And further observe, The same <hi>It, that is sown in corrup<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> shall be raised in incorruption;</hi> the same <hi>It,</hi> that <hi>is so<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> dishonour, shall be raised in glory;</hi> the same <hi>It,</hi> that <hi>is so<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> weakness, shall be raised in power:</hi> the same <hi>It,</hi> that <hi>is so<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> natural body, shall be raised a spiritual body,</hi> 1 Cor. 15.42, 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 44. Now our Bodies are sown corruptible, dishonourab<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> weak and natural: And therefore it follows, that t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> same Bodies that are sown, shall be raised again, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> changed into a better State: so that God will give to ev<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>Seed his own Body.</hi> And therefore saith the Apostle, Ch<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <hi>shall change our vile bodies.</hi> Note, not exchange them <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other Bodies, but change them, <hi>that they may be made like <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> his glorious body,</hi> Phil. 3.21.</p>
+               <p>But consider, if this Body rise not again; but God gi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> us instead hereof, another Body: then it will be more p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>per to call it, An exchanging of this Body for anoth<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> than a changing of this vile Body into a better State: <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as the same Body that dieth, is buryed; so the same Bo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that is buryed, shall rise again; only it shall be change<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but not exchanged.</p>
+               <pb n="19" facs="tcp:58966:10"/>
+               <p>But I shall prove further, That we shall rise again with <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> same Bodies, only they shall be changed, according to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat <hi>Job</hi> saith, to this purpose; <hi>Job</hi> 19.26. <hi>And though <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>er my Skin, Worms destroy this Body;</hi> Note, <hi>yet in my flesh <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I see God,</hi> v. 27. <hi>Whom I shall see for my self, and mine eyes <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> behold, and not another, though my Reins be consumed with<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut.</hi> Now <hi>Quaker,</hi> pray resolve me this Question: How <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Job</hi> be rightly said, to see God with the same Eyes, if <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have not the same Body? Now <hi>Quaker,</hi> where are you? <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> see, that all your Erronious Opinions, which you en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vour to set up in opposition to the Doctrin of Christ, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are not able to stand before the Truth, but fall like so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <hi>Dagons,</hi> before the Ark of the Lord.</p>
+               <p>Therefore <hi>Quaker,</hi> seeing it is so, take my Advice for <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; put all your cunning devised Fables together, and if <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> can perswade us to it, do; That <hi>Job</hi>'s Eyes shall be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d into another Body, and so <hi>Job</hi> shall see God with <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> same Eyes, tho' not in the same Body; and if you should <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that this will not pass for Truth, as I know it cannot <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you: even tell us as you us'd to do, That those are <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Scripture Words, but added.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ker.</hi> Doth not the Apostle say, (speaking of Seed,) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat <hi>thou sowest, is not that Body that shall be?</hi> Now our Bo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are sown in the Earth, and thou sayest, the same Bo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that is sown in the Earth. How can this be?</p>
+               <p>
+                  <hi>Answer.</hi> I have partly answered this; but further consider <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Apostle there speaking comparatively of our Bodies, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich is sown in the Grave, as Corn is in the Earth; <hi>Thou <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, that which thou sowest is not quickned, except it die.</hi> Now <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> know, that Corn which is sown in the Earth, doth first <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the Earth before it is quickned; so doth our Bodies: <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey first die, before they can be quickned again. And <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rther, <hi>That which thou sowest, thou sowest not that Body that all be but bare Grain; it may be of Wheat, or some other Grain.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow we know, that Wheat, or any other Grain, when it <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> sown, it is dry and husky, but when it comes to be quick<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, and groweth again, then it springeth up far more glo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ous and beautiful than before: yet it is the same in Sub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ance, it is not exchanged, tho' it be changed in respect of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Excellency. So it is with Man's Body, it is sown cor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ptible and dishonourable; and consider, as the Corn <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ringing up, doth leave the husky part in the Earth be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd it, even so our Bodies; as the Seed which is sown in <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Earth, shall at the Resurrection, leave its corruption
+<pb n="20" facs="tcp:58966:11"/> in the Earth, tho' now it be sown a corruptible, dishon<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rable, weak and natural Body, yet then it shall be raise incorruptible and spiritual, in Glory and Power, 1 <hi>Cor.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 42, 43, 44. yet it shall be the same Body that was sown; shall not be exchanged, tho' it be changed into a b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> State, <hi>Phil.</hi> 3.21.</p>
+               <p>But further, if Christ be not Risen, then there shall no Resurrection, 1 <hi>Cor.</hi> 15.13. But <hi>Christ is risen fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dead, and become the first fruits of them that sleep,</hi> 1 Cor. 20. Therefore, there shall be a Resurrection from dead. But I remember, that once I being at their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing, I heard them reason thus: said they, <hi>If thou not witness a Resurrection in thy self, it is because Christ is yet risen in thee;</hi> and so they turn all inward, and spirit but it is evident, That the Apostle did there speak of a surrection of this mortal Body after Death, in oppos<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to the like Opposers of Truth in his day, who did de<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Resurrection: and therefore saith he, <hi>If there be no R<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>rection, then Christ is not risen,</hi> 1 Cor. 15.16.</p>
+               <p>Further, in the Resurrection of the Dead, our vile dies shall be changed, and shall then be incorruptible immortal, <hi>Luke</hi> 20.36. 1 <hi>Cor.</hi> 15.53, 54.</p>
+               <p>But now our Bodies are vile, and corruptible, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tal, therefore the Resurrection is not yet past, <hi>Phil.</hi> 3.</p>
+               <p>But <hi>Quaker,</hi> pray resolve me this one Question: Do believe you shall die? I am well perswaded, were it but that daily Experience of Death in others, would prove you, and every Spectacle of Mortality that daily o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into the Dust, would bear a sufficient Testimony ag<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you, otherwise you would deny the Death of Man, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as his Resurrection: But why is it, that some amongst say, That there is no Resurrection? Doth not <hi>Dan<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> the Spirit of God tell us, <hi>Dan.</hi> 12.2. That <hi>many of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that sleep in the Dust of the Earth, shall awake, some to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> lasting Life, some to everlasting Shame and Contempt:</hi> And ther, the Lord by the Prophet <hi>Ezekiel,</hi> chap. 37.12. <hi>hold, O my People, I will open your Graves, and will cause to come up out of your Graves.</hi> Now this hath Referen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Resurrection of our Bodies after Death; and fu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>Rev.</hi> 20.12, 13, 14, 15. where <hi>John</hi> saith, <hi>I saw the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> small and great stand before God and the Books were opened; another Book was opened, which is the Book of Life: and the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> were Judged out of those things which were written in the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> according to their Works; and the Sea gave up the dead <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <pb n="21" facs="tcp:58966:11"/> were in it, and Death and Hell delivered up the dead, which were <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them, and they were Judged every Man according to their <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, and Death and Hell were cast into the Lake of Fire.</hi> Now, what are these things, all inward and spiritual? What is this <hi>Death,</hi> only a dying to sin? And what is this <hi>Giving up,</hi> only a spiritual Rising with Christ? And what, is this <hi>Judged,</hi> nothing but a manifestation of your evil Deeds, by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Light within you? and so in your opinion, you are dai<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> brought to be judged by that, which is all the Judgment <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> own and look for. And what is meant by this <hi>Lake of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e</hi> here mentioned? and what is this within you likewise? <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at is it, <hi>that Spirit of burning, which some of you pretend you <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e redeemed by? (Eliz. Adams</hi> a Quaker.) O horrible! <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow erronious and absurd are your Opinions? I may law<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly with the Spirit of God, call them damnable Heresies, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecause they will tend to the eternal Damnation of those <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t receive them.</p>
+               <p>We find, that there were some in the Apostles time, who <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> privily bring in this damnable Heresie, 2 <hi>Tim.</hi> 2.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ir words were said to, <hi>eat as doth a Canker, of which sort <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> Hymeneus <hi>and</hi> Philetus, <hi>who concerning the Truth, have <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>red,</hi> saying, That <hi>the Resurrection is already past:</hi> and <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k what the effect was, <hi>and hath overthrown the Faith of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. Take heed Brethren, lest there be in any of you an evil heart <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>belief, in departing from the Living God,</hi> Heb. 3.12. And <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the end you may take heed, stand fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in the Faith, and be not led away by those Erroneous Satanical Opinions out of the way of God; for indeed, the beginning of <hi>Spiritual <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>nication, is when a Man departeth from his God.</hi> Now it is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vident, That the Spirit of God will carry forth such as are led by it, to walk in the true Faith: But the Spirit which they are guided by, doth lead them forth to own those Er<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs, which in effect, will overthrow the true Faith; and therefore, it is to be feared, that they are not led by the Spirit of God.</p>
+               <p>And further, it is the Duty of God's People, to <hi>contend earnestly for the Faith, which was once delivere to the Sain s,</hi> Jude 3. But on the contrary, they contend earnestly for Errors. But consider further: Faith is the very Life of a Christian: for <hi>the Just shall live by Faith.</hi> So that Satan seek<g ref="char:EOLhyphen"/>eth to take away a Christian's Life at once, in seeking to overthrow his Faith. But then you will lose that sweet and precious Communion with God, which now as a Chri<g ref="char:EOLhyphen"/>stian, you do enjoy, <hi>Heb.</hi> 10.38, 39. and shall be separa<g ref="char:EOLhyphen"/>ated from God, to all Eternity.</p>
+               <pb n="22" facs="tcp:58966:12"/>
+               <p>
+                  <hi>Secondly,</hi> If you lose your Faith, you lose your spiri<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Strength, that is, that by which we must <hi>Resist the De<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> 1 Pet. 5.9. <hi>whom resist stedfast in the Faith;</hi> and theref<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> we are exhorted, <hi>above all, take the Shield of Faith, that so <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> may be able to quench all the fiery darts of the wicked,</hi> Eph. 6.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> Faith is victorious: for, as saith the Apo<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <hi>This is the Victory by which we over come the world, even our F<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> 1 John 5.4. Now consider, those who do <hi>run,</hi> and do <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>obtain</hi> Victory, they run in vain. Now those who lose t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Faith, cannot obtain the Victory. And therefore, t<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> who lose their Faith, run in vain: therefore <hi>stand fast in <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Faith, and so run that you may obtain,</hi> 1 Cor. 9.24. <hi>S<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> fast in the Faith, quit you like men, and be strong in the L<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and in the power of his might,</hi> Ephes. 6.10. We find, that wh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>Israel</hi> kept close with God, they prospered, and all th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Enemies, that ever came against them, were not able to o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> come them, but the Lord fought for them. Even so s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will assuredly deal now with his People; if we stand fa<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the Faith, and keep close in Communion with God: <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God will strengthen us with Power from on high, ag<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> all our spiritual Enemies, and will cause them to fall <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fore us; so that none shall be able to overcome us: b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we depart from the Faith, and Idolize in our Hearts f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God, then the Lord will deal with us as he did with <hi>Is<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> of Old; that instead of bruising our spiritual Enemies un<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> our Feet, and delivering them up unto us, he will on <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> contrary deliver us up into the hands of our spiritual E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mies, and we shall be carryed away Captive by them <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Wills, and so shall be destroyed to all Eternity, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our Idolizing in our Hearts from God.</p>
+               <p>But see further the dangerous Effects of these Errors.</p>
+               <p>
+                  <hi>First,</hi> By this damnable Sadducian Heresie, in their deny<g ref="char:EOLunhyphen"/>ing the Resurrection of the dead, it overthroweth the Fal<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of many, 2 <hi>Tim.</hi> 2.17. and therefore cannot be good, f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it striketh at the very Life, Strength and Standing of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Christian, all at once.</p>
+               <p>
+                  <hi>Secondly,</hi> This Sadducian Doctrine maketh God a Liar <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for God hath declared, That he <hi>Raised up Christ from t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> dead,</hi> 1 John 5.10. Acts 17.31. Whom God hath not raised, <hi>if the dead Rise not,</hi> 1 Cor. 15. Now that Doctrine that maketh God a Liar, must needs be damnable and de<g ref="char:EOLhyphen"/>structive. But this Doctrine doth so. <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> In denying the Resurrection of the Dead, they make the Sufferings of Christ non-effectual: for consider, Ch ist died to <hi>save his people from their sins,</hi> Mat. 1.21. and
+<pb n="23" facs="tcp:58966:12"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>redeem them from all Iniquity,</hi> Titus 2.14. <hi>But if the dead <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>fe not, then Christ is not risen, then are we yet in our sins.</hi> Now, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Christ did die to save us from our sins, and to redeem <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from our iniquity, yet if we be still in our sins, as we <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; if this Doctrine be true, then is his Death of no effect. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>go. O my Soul, come not thou into their Secret, unto their As<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly, mine Honour, be not thou united,</hi> Gen. 49.6.</p>
+               <p>
+                  <hi>Fourthly,</hi> In denying the Resurrection of the Dead, they <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as much as in them lyeth, to over-throw the main Prin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ground of Christian Religion, for, <hi>if the dead rise not, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Christ is not risen;</hi> and if so, then <hi>Preaching is vain, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is vain,</hi> 1 Cor. 15.14. It is in vain for you to preach, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for me to believe, all is struck down at once. <hi>Ergo.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>sider, those who deny the Resurrection of the Dead, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ve their hope only in this Life,</hi> 1 Cor. 15. and those who <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e their hope only in this Life, are in the miserablest <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dition of all Men, <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <hi>Sixthly,</hi> By this Doctrine, they frustrate the Saints ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctation, that are asleep in Jesus; for their great Ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctation was, <hi>That they might obtain a better Resurrection,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 11.35. Now I have asked the Quakers, Who they at that are asleep in Jesus, and by their consequence, are perished, but I could have no Answer. <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <hi>Seventhly,</hi> This Doctrine giveth liberty to Sinners, to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ntinue in their Sins; for what will they say in their hearts? Let us go on in our sin, and fill our selves with Pleasure, we shall never be called to an account; for if there be no Resurrection, then there can be no last day of Judgment, or account to be given after Death: and this St <hi>Paul</hi> infers, 1 Cor. 15. <hi>Let us eat and drink, for to morrow we die.</hi>
+               </p>
+               <p>But that Doctrine that giveth liberty to continue in sin, must needs be a Doctrine of Devils. <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <hi>Eighthly,</hi> This Doctrine bringeth into Question, the Al<g ref="char:EOLhyphen"/>mighty power of God, as if it were impossible with God, to raise us again: but let such know, and to their shame be it spoken, that as sure as we live, we shall die; and as sure as we die, we shall rise again, 1 <hi>Cor.</hi> 15.22. And as God by his Wisdom did at first form us out of the dust, so he will again after death, raise us out of the dust by his Wisdom: and <hi>according to the mighty working, whereby he is able to subdue all things to himself,</hi> Phil. 3.21. Dan. 12.2. John 5.29. Isaiah 26.19.</p>
+               <p>
+                  <hi>Ninthly,</hi> This maketh the Saints and Servants of God Liars, or false Witnesses, 1 <hi>Cor.</hi> 15.15. for they have testi<g ref="char:EOLhyphen"/>fied
+<pb n="24" facs="tcp:58966:13"/> to others, That <hi>God hath raised up Christ from the dee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whom God hath not raised, if there be no Resurrection.</hi> Fr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Tenthly,</hi> This Doctrine doth vilifie and violate the O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dinances of Christ, <hi>viz.</hi> Baptism and his Supper, which do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> most lively represent, and set forth the <hi>Death, Burial, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Resurrection of Christ,</hi> Rom. 6.3. As Christ died for <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> so the Saints die to sin; and as he was buried in the Ea<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> so they are <hi>buried with him by Baptism into death; and as <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> was raised from the dead, by the glory of the Father,</hi> so are th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by the power and riches of God's grace, raised from sin <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> righteousness, to walk in newness of Life.</p>
+               <p>But, if no Resurrection, then Christ is not risen: <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Why</hi> then <hi>are we baptized for the dead?</hi> 1 Cor. 15.29. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> To shew forth the Death, Burial, and Resurrection of Chri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> when Christ is not Risen, if the Dead rise not.</p>
+               <p>I have been asked by them, When this Resurrect<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> would be? To which I replyed; It is not for us <hi>to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the times and seasons, that the Father hath put in his own <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and power,</hi> Acts 1.7. and, that <hi>secret things belong to</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and that it was enough for us, to live and die in the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and hopes thereof; and whilst we live, so to walk, as <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>we may be accounted worthy to attain the world to come,</hi> Luke <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 35. <hi>and the Resurrection from the dead.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>V.</hi> Of the <hi>Quakers</hi> Denial of Christ's Personal Second Coming.</head>
+               <p>The false Apostles did deny the Second Coming of Chri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> according to his Promise, 2 <hi>Thess.</hi> 2. 2 <hi>Pet.</hi> 3.</p>
+               <p>And that the <hi>Quakers</hi> come not behind them in this re<g ref="char:EOLunhyphen"/>spect, is evident; for they own not his <hi>Second Coming</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> glorified Body, as <hi>Phil.</hi> 3.21. nor will not believe, that <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is now a glorified Body in Heaven: and therefore sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>George Whitehead,</hi> (in <hi>Christ Ascended,</hi> pag. 21.22, 23.) Th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>those which look for Christ's Personal Coming, shall be accursed.</hi>
+               </p>
+               <p>And consider, tho' Christ is said to <hi>dwell</hi> in the hearts <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his people by <hi>Faith,</hi> and by his <hi>Spirit,</hi> Gal. 2.20. yet <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hath not fulfilled the Promise of his Second Coming, th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Quakers scoff. and say <hi>Where is the promise of his Coming</hi> 2 Pet. 3.1. and, that <hi>We might look till our Eyes drop out <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> our heads, before we shall see him come personally.</hi> (Thoma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ever<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en, <hi>a Quaker.</hi>) But he will assuredly come; and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will be well for them, if they be not forced to <hi>call to t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="25" facs="tcp:58966:13"/> R<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ks and Mountains to fall upon them,</hi> and knock their eyes <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of their Heads, that they might not see him; for his Wrath will be very great.</p>
+               <p>But to prove, That Christ will not come at the last day, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly in Spirit, but personally and visibly: I prove thus; If Christ will descend in like manner as he did ascend, then <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will come personally and visibly. But according to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.11. Christ will come personally and visibly with a glorious Body, <hi>Phil.</hi> 3.21. and not instead thereof, only <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wardly and spiritually, as the <hi>Quakers</hi> foolishly imagine.</p>
+               <p>Again, if the Lightning or Sun in the Firmament, be to visible appearance of all Men, then Christ shall come to the visible appearance of all Men: <hi>Even so shall the coming of the Son of Man be,</hi> Mat. 24.27. <hi>and every Eye shall see him, Rev.</hi> 1.7.</p>
+               <p>Again, If Christ shall come only spiritually, then every Eye shall not see him; for the Wicked that remain in dark<g ref="char:EOLhyphen"/>ness cannot see him, but every eye shall see him; and even they that pierced him, shall behold him: and there<g ref="char:EOLhyphen"/>fore his coming will not be only inward and spiritual, but personally to the visible appearance of all Men.</p>
+               <p>Again, If the promise of Christ's Second Coming were fulfilled, then all the Wicked, and Ignorant, and Disobe<g ref="char:EOLhyphen"/>dient Persons, should be <hi>consumed with the brightness of his coming,</hi> 2 Thess. 1.8, 9. Mat. 25.41, 46. Isa. 66.15. Ezek. 38.19, 92. Mal. 3.2, 4. I do not mean their sins, as some fondly imagine, but the Sinners themselves shall be utterly destroyed.</p>
+               <p>But the Wicked do still continue in the World, and shall until that day, <hi>Mat.</hi> 13.30, 49. therefore the time of Christ's Second Coming, is not yet past, nor present, but to come.</p>
+               <p>Again, If Christ have fulfilled the Promise of his Second Coming, then all Saints are discharg'd of their present Work and Service to God; for they are to hold fast no longer than till Christ comes: it is our Duty to wait upon him, and serve him, till he comes to us by Death or Judg<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Again consider, When Christ fulfilleth the Promise of his Second Coming, then the vile Bodies of his Saints shall be immortalized, and made incorruptible and glorious, 1 <hi>Cor.</hi> 15. <hi>Phil.</hi> 3.21.</p>
+               <p>But the Saints are yet in a mortal State; therefore the Promise of Christ's Second Coming is not yet fulfilled.</p>
+               <pb n="26" facs="tcp:58966:14"/>
+               <p>And consider, The <hi>Quakers</hi> themselves are yet in a mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tal State; so that either their Christ is not the true Christ or else Christ is not faithful to what he hath promised, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what the Saints expected at his coming. But, <hi>let God <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> true, and every Man a Liar.</hi> Christ hath not yet fulfill<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the promise of his Second Coming.</p>
+               <p>Again consider, If Christ were come the Second time according to his Promise, then the Saints Sorrow shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> turned into Joy, and they acquitted from all Temptatio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Tryals, <hi>Ps.</hi> 126.56. <hi>John.</hi> 14.</p>
+               <p>But the best of God's People are still in, or at least <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ble to heaviness, through manifold Temptations; therefo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the promise of Christ's Second Coming, is not yet fulfilled.</p>
+               <p>Lastly consider, If Christ's Second Coming were to b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> only spiritual and inward, then the Saints would not b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> found to wait for him, after they had received the Spiri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God: <hi>For that which a Man hath, why doth he yet with <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tience wait for it:</hi> but though they had received as great <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> measure of the true Spirit, as some other people have <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the false, yet were they found to wait for the coming <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Lord, 1 <hi>Cor.</hi> 1.7. 1 <hi>Thess.</hi> 1.10. <hi>Phil.</hi> 3.21.</p>
+               <p>Therefore the Promise of Christ's Second Coming is <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yet fulfilled: I might bring many more Arguments <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> confirm this point, but I hope this is sufficient Testimon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>But <hi>Twelfthly</hi> and <hi>Lastly,</hi> As those false Apostles did preac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up themselves, and boasted of themselves beyond what w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> meet, which caused the Saints to adhere to them, and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> began to despise their spiritual Father, even <hi>Paul;</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therefore say they, <hi>His Letters indeed are weighty and power<g ref="char:EOLhyphen"/>ful, but his bodily Presence is weak, and his Speech is contem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tible,</hi> 2 Cor. 10.10.</p>
+               <p>So in like manner, have Quakers boasted of themselves, of their Purity and Holiness, and contemned others.</p>
+               <p>
+                  <q>What is such and such Men! <hi>(say the Quakers)</hi> they may exhort Persons to some things that are good, but alas! they know nothing in themselves, nor can witness the truth of but little they speak of: alas! we see plainly, that such are weak and contemptible, and have only a notion of Words, and so lifted up with Elementary Thoughts; but they are still in Darkness and Disobedi<g ref="char:EOLhyphen"/>ence, <hi>and cannot at all witness the Second Coming of Christ spiritually in their hearts, but in their carnal Expectations, do look for his coming personally and visibly.</hi>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:58966:14"/>
+               <head>
+                  <hi>VI.</hi> Of the <hi>Quaker</hi> Light in all Men.</head>
+               <p>
+                  <hi>First,</hi> As touching Christ or the Spirit of God being in all Men; it is one thing for God to <hi>strive</hi> with the Sons and Daughters of Men by his <hi>Spirit,</hi> as <hi>Gen.</hi> 6.3. <hi>Nehem.</hi> 9.30. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d it is another thing for God to give his Spirit to all Men. There is more Difference between the Spirit of Man and the Spirit of Christ, than there is between the Light of a Candle, <hi>Prov.</hi> 20.27. which is useful in its place, and the Light of the Sun in its Splendor, which is far more glori<g ref="char:EOLhyphen"/>ous, useful and excellent.</p>
+               <p>
+                  <hi>Secondly,</hi> Consider, if that Light in Man were Christ or his Spirit, then Christ is in all Men, but Christ is not in Reprobates, 2 <hi>Cor.</hi> 13.5. and some Men are Reprobates; therefore Christ is not in all Men.</p>
+               <p>
+                  <hi>Thirdly,</hi> If the Spirit of Christ be in all Men, then the World can and have received it: but, <hi>let God be true, and every Man a liar.</hi> Christ saith, <hi>The World cannot receive his Spirit,</hi> John 14.17. Therefore Christ nor his Spirit is not in all Men.</p>
+               <p>
+                  <hi>Fourthly,</hi> If Christ be in all Men, then all Men are new Creatures, 2 <hi>Cor.</hi> 5.17. but all Men are not new Crea<g ref="char:EOLhyphen"/>tures; therefore Christ is not in all Men.</p>
+               <p>
+                  <hi>Objection.</hi> Collos. 3.8, 9, 11. Doth not <hi>Paul</hi> say, <hi>Christ is all, and in all;</hi> and yet thou sayst, That Christ is not in all Men.</p>
+               <p>
+                  <hi>Reply. Paul</hi> doth say so, That <hi>Christ is all, and in all:</hi> but consider, Those that he spoke to there, had put off sin, and put on Christ; but all Men have not so done; therefore Christ is not in all Men: but they having so done, Christ was all in all to them, and in all of them.</p>
+               <p>
+                  <hi>Object.</hi> 2. Doth not <hi>Paul</hi> say plainly, <hi>The manifestation of the Spirit is given to every Man to profit withal,</hi> 1 Cor. 12.7. and <hi>yet thou sayest, That every Man hath not the Spirit of Christ.</hi>
+               </p>
+               <p>
+                  <hi>Reply,</hi> I grant <hi>Paul</hi> doth say so: but consider, he is not there speaking to all the world, but particularly to the Church of Christ, his own Servants, to whom he delivered his Goods, the Gifts of the Spirit, and Talents, <hi>Mat</hi> 25.24. that they might be helpful to each other, as Mem<g ref="char:EOLhyphen"/>bers of one Body.</p>
+               <p>But all Men are not the Servants of Christ, 2 <hi>Pet.</hi> 2.19. <hi>Rom.</hi> 6.16. Therefore <hi>all have not the Spirit of Christ,</hi> Rom.
+<pb n="28" facs="tcp:58966:15"/> 8.9. for <hi>God giveth his spirit to such</hi> as obey him, <hi>Acts</hi> 5.32. <hi>Act.</hi> 2.38. <hi>Gal.</hi> 4.6. <hi>Prov.</hi> 1.23. 2 <hi>Cor.</hi> 6.17, 18.</p>
+               <p>
+                  <hi>Again,</hi> If you could prove, That all Men have right to the Celestial Inheritance; then you might prove, That all have the Spirit of God.</p>
+               <p>But all Men have not right to that Caelestial Inheritance 1 <hi>Cor.</hi> 6.9, 10. <hi>Ephes.</hi> 5.5. <hi>Rev.</hi> 22.15. Therefore a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Men have not the Spirit of God: God giveth not the <hi>ear<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> of that <hi>Inheritance</hi> to such as belong not to it, <hi>Eph.</hi> 1.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Again,</hi> If all Men have the Spirit of God, then most me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have it long before they believe in Christ: but stay Frien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God doth not give his Spirit long before they Believe, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Believing in Christ, follows the Spirit as immediately as <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sound follows a Blow; the first act of the Soul is Believing i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Person of Christ, and hatred of sin, <hi>Eph.</hi> 4. <hi>Gal.</hi> 4.4, 5, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Object.</hi> From <hi>John</hi> 1.9. <hi>Christ</hi> is said to be <hi>the true Lig<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> that lightneth every Man that cometh into the World;</hi> and y<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thou sayest, Christ is not in all Men.</p>
+               <p>
+                  <hi>Answer.</hi> It is also said, <hi>Ezek.</hi> 24.13. <hi>I purged thee, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thou wast not purged;</hi> as if God had said, I have done t<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> which is sufficient for thy Purgation; so Christ is the Sa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>our of <hi>all Men,</hi> in that he hath done that which is sufficient <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> save them, 1 <hi>Tim.</hi> 4.10. and yet all will not be saved, <hi>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 4. 2 <hi>Pet.</hi> 2.1. because they receive not Christ by Fait<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which is the Gift of God, <hi>John</hi> 1.11. Christ is a Light <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the whole World, in that he hath done that which is a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to effect pardon of sin for the whole World, and to enlighte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them into the Knowledge of God, when the Spirit appli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it, 1 <hi>John</hi> 2.2.</p>
+               <p>
+                  <hi>Again,</hi> Christ is Light and not Darkness; now if Chri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> be in all Men, then all Men have Gospel Light in them. B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> some Men have it not. <hi>Isa.</hi> 8.20. Especially such whos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Doctrine agreeth not with the Doctrine of Christ and h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Apostles, <hi>John</hi> 11.10.</p>
+            </div>
+         </div>
+         <div type="poem">
+            <head>George Sparrow<hi>'s CHARACTER of</hi> William Penn.</head>
+            <lg>
+               <l>THE Character of <hi>William Penn</hi> Esquire,</l>
+               <l>That matchless Man, whom Ages will admire:</l>
+               <l>Undoubtedly there are but few such Men</l>
+               <l>In all the World, as is this <hi>William Penn;</hi>
+               </l>
+               <pb n="29" facs="tcp:58966:15"/>
+               <l>For if his Tongue and Heart go both together,</l>
+               <l>We know not where to find out such another.</l>
+               <l>And certainly, if it were otherwise,</l>
+               <l>Seeing he hath so many Enemies,</l>
+               <l>They would have found e're this time, without doubt,</l>
+               <l>Some way or other, to make the matter out.</l>
+               <l>So hoping that he is no Hypocrite,</l>
+               <l>Or what is worse, a Popish Jesuite.</l>
+               <l>I will proceed as briefly as I can,</l>
+               <l>To the Descriptions of that transcending Man;</l>
+               <l>Which will be done, but slenderly by me,</l>
+               <l>Tho' he deserves the Superlative Degree:</l>
+               <l>In the First place, He hath proficient Learning,</l>
+               <l>And next, an admirable Understanding:</l>
+               <l>Thirdly, A wonderful good Memory,</l>
+               <l>Fourthly, An excellent Delivery.</l>
+               <l>Fifthly, He hath a magnanimous Posture,</l>
+               <l>Sixthly, He hath an Artificial Gesture.</l>
+               <l>Seventhly, That which doth all these exceed,</l>
+               <l>He can by Heart most of the Bible read;</l>
+               <l>That is, those Proofs that are most eminent,</l>
+               <l>Both in the Old, and in New Testament:</l>
+               <l>He speaketh them, as readily we see,</l>
+               <l>As if they all were but A, B, C, D.</l>
+               <l>Which Crowneth all the high Accomplishments</l>
+               <l>Of his great Parts, these are the small Contents.</l>
+               <l>Now for his Doctrine, it doth plainly shew,</l>
+               <l>That he is neither Papist, Turk nor Jew,</l>
+               <l>But an undaunted Protestant, who can</l>
+               <l>Tell how to speak to each particular Man,</l>
+               <l>A Word in season, as the Case require,</l>
+               <l>In Scripture Language, and need go no higher.</l>
+               <l>First, he declares that every Dispensation</l>
+               <l>Towards Mankind, in every Generation,</l>
+               <l>Was to recover Sinners from the Fall</l>
+               <l>They gained by <hi>Adam,</hi> by whom we sinned all:</l>
+               <l>That is, the most glorious Dispensation,</l>
+               <l>To have the Gospel preached in the Nation.</l>
+               <l>Also he speaks against all sorts of sin,</l>
+               <l>And shews the danger that poor Souls are in,</l>
+               <l>Who trust upon out-side Christianity,</l>
+               <l>Which will deceive them when they come to die;</l>
+               <l>And that it is a dreadful Desolation,</l>
+               <l>To perish under a Gospel Dispensation.</l>
+               <pb n="30" facs="tcp:58966:16"/>
+               <l>The Heart's a Tribute due to our Creator,</l>
+               <l>Therefore we must not give it to the Creature:</l>
+               <l>The way to keep Truth in the inward Part,</l>
+               <l>Is by the keeping Sin out of the Heart;</l>
+               <l>Then adds to that what is worth all the rest,</l>
+               <l>There's no Salvation but in Jesus Christ,</l>
+               <l>That doth Baptize with Holy Ghost and Fire:</l>
+               <l>To be Baptiz'd of him, we should desire,</l>
+               <l>Because a Christian that's of Christ's own making,</l>
+            </lg>
+            <lg>
+               <l>With these and such like Truths he did proceed,</l>
+               <l>And made an excellent Discourse indeed.</l>
+               <l>But that which he did most insist upon,</l>
+               <l>Was against all out-side Religion:</l>
+               <l>There is much in <hi>Europe,</hi> and in <hi>England</hi> too,</l>
+               <l>Out-side Religion, if that that would do.</l>
+               <l>He said it, and hath seen it for his part;</l>
+               <l>He adds that Text, <hi>My Son, give me thy Heart:</hi>
+               </l>
+               <l>So, by those few Words which are here exprest,</l>
+               <l>May be supposed, what were all the rest:</l>
+               <l>Or rather, whereunto they did all tend,</l>
+               <l>Which was I hope, unto a Godly end.</l>
+               <l>For with a Godly Prayer he did conclude,</l>
+               <l>And with a Blessing on the Multitude.</l>
+               <l>This is the Sum of what I heard him say,</l>
+               <l>And thought my time was well bestow'd that day.</l>
+               <l>So much have I to say of Mr. <hi>Penn,</hi>
+               </l>
+               <l>And account him one of the best of Men:</l>
+               <l>And yet how basely hath he been abus'd,</l>
+               <l>Which is no News, that good Ones are so us'd.</l>
+               <l>Proud <hi>Tertullus,</hi> a Pestilent Fellow did call,</l>
+               <l>That great Apostle and precious Preacher <hi>Paul;</hi>
+               </l>
+               <l>The High Priests also, with the chief of Jews,</l>
+               <l>Our Lord and Saviour Christ did so abuse,</l>
+               <l>And never left, till they murder'd Him,</l>
+               <l>Who out of love, came, them for to Redeem.</l>
+               <l>If any Query who, or what I be,</l>
+               <l>That do presume to write, as thus you see;</l>
+               <l>I answer, 'tis one who hath met with Sorrow,</l>
+               <l>Who is known, and call'd by the Name of <hi>George Sparrow.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="31" facs="tcp:58966:16"/>
+            <head>REPLY to <hi>George Sparrow</hi>'s Character of <hi>William Penn.</hi> With Scripture Proofs to each line, for Confirmation.</head>
+            <l>AS for the Quakers, I should have Affection,<note place="margin">
+                  <hi>Heb.</hi> 9.24. <hi>Heb.</hi> 11.35. 1 <hi>Cor.</hi> 15.12. <hi>Acts</hi> 3.21. <hi>Acts</hi> 7.55. <hi>Phil.</hi> 3.21. <hi>Acts</hi> 1.11. 1 <hi>Cor.</hi> 15.14. 1 <hi>Cor.</hi> 15.32. <hi>Gal.</hi> 1.8. <hi>Isaiah</hi> 8.20. <hi>Isaiah</hi> 30.1. 2 <hi>John</hi> 10.11. <hi>Act.</hi> 17.30, 31. 1 <hi>John</hi> 5.11. 1 <hi>Cor.</hi> 15.13. <hi>Rev.</hi> 22.9. <hi>Prov.</hi> 17.15. 2 <hi>Thess.</hi> 2.4. <hi>Ephes.</hi> 6.12. 2 <hi>Pet.</hi> 3.34. 2 <hi>Cor.</hi> 10.15. 1 <hi>Thess.</hi> 1.10. 1 <hi>Cor.</hi> 1.7. 1 <hi>John</hi> 4.1. <hi>Isa.</hi> 8.20. <hi>Acts</hi> 17.11. 1 <hi>Thess.</hi> 5.21. <hi>John</hi> 5.39.</note>
+            </l>
+            <l>If they did rightly own the Resurrection.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Jesus Christ in Heaven, now with God,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wanting this, it makes their Doctrine odd:</l>
+            <l>And did they own Christ's Second Coming aright,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would make their Doctrin shine most bright:</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r it's in vain, to give God our Affection,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd live up to him, if no Resurrection:</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r yet to let our Eyes, observe his ways,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he do not intend the Dead to raise.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f in the Grave, for ever we shall lye;</l>
+            <l>Let's eat and drink, to morrow we shall die;</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut what for that, suppose that <hi>William Penn</hi>
+            </l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poke with the Tongue of Angels, and of Men;</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et if his Doctrine, ben't in all points right,</l>
+            <l>Let none blame me, for bringing it to Light.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or seeing his Doctrine, mixt is with Lies,</l>
+            <l>Pray don't extol the Man above the Skies:</l>
+            <l>For to such Doctrine, we should not give heed,</l>
+            <l>Left we partake with them in Evil Deed.</l>
+            <l>You had better worship God in his own way,</l>
+            <l>And cease to Honour such as go astray:</l>
+            <l>And do not thou the Wicked justify,</l>
+            <l>For that's accounted great Iniquity.</l>
+            <l>Tho' Men be sober in Life, what are they less,</l>
+            <l>When found guilty of spiritual Wickedness.</l>
+            <l>For tho' some Men seem, as Angels of Light,</l>
+            <l>Yet for all that, their Doctrine may'nt be right:</l>
+            <l>Wherefore don't believe all, but first try</l>
+            <l>Their Doctrine, whether it be Truth or Lye;</l>
+            <l>And try the same, according to God's Word,</l>
+            <l>Believe no further, than, Thus saith the Lord.</l>
+            <l>If any do desire to know and see,</l>
+            <l>The reason, Why these Lines proceed from me?</l>
+         </div>
+      </body>
+   </text>
+</TEI>
